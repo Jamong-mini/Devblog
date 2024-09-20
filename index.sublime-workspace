@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bi",
+				"birthCheck"
+			],
+			[
+				"korea",
+				"koreanAgeCheck"
+			],
+			[
+				"korean",
+				"koreanAgeCheck"
+			],
+			[
+				"nu",
+				"numberTwo"
+			],
+			[
+				"in",
+				"index_num"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jamong/Desktop/sublineTex/작년부터 아반떼 CN7을 주행하며 블루링크, 커넥티드 카, 5W세대 내비게이션을 애용하는",
+		"/Users/Jamong/Desktop/sublineTex/7월 23일 신청(고용센터 방문)",
+		"/Users/Jamong/Desktop/sublineTex/지금까지 내가 해왔던 일들",
+		"/Users/Jamong/Downloads/https:::www.ticketlink.co.kr:reserve:gate:40828?pr",
+		"/Users/Jamong/Downloads/인팍.html",
+		"/Users/phillipkim/Downloads/files/001.ipynb",
+		"/Users/phillipkim/Downloads/files 2/___ ___ ___ __.ipynb",
+		"/Users/phillipkim/Downloads/class로 구현/주피터 파일_Code개선 파일(class로 구현).ipynb",
+		"/Users/phillipkim/iOS_Boost/Xcode 단축키",
+		"/Users/phillipkim/PycharmProjects/bears_macro/dist/BearsMacro_event",
+		"/Users/phillipkim/PycharmProjects/bears_macro/무제 폴더/source.qrc",
+		"/Users/phillipkim/Desktop/Python/2557_Hello World.py",
+		"/Users/phillipkim/Desktop/이름 : 정철원(Jeong Cheol-won)",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/worldAgeCalculator/worldAgeCalculator(v1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/worldAgeCalculator/worldAgeCalculator(v1.2.2).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/rockScissorsPaper/rockScissorsPaper.py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/tasSalaryCalculator/taxSalaryCalculator.py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/busFareCalculator/busFareCalculator(v1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/busFareCalculator/busFareCalculator_worldAge(v2).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/busFareCalculator(v1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/rockScissorsPaper.py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/taxSalaryCalculator.py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/gradePointCalculate(v1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/gradePointCalculate(v2).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/gradePointCalculate(v2.1.1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/gradePointCalculate(v2.1.2).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/busFareCalculator_worldAge(v2).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/worldAgeCalculator(v.1).py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/naverConnect/py4E/worldAgeCalculator",
+		"/Users/phillipkim/Downloads/Py4E/rockScissorsPaper.py",
+		"/Volumes/Minpolaris/개인자료/PyStudy/README.md",
+		"/Users/phillipkim/Downloads/Py4E/import sys.py",
+		"/Users/phillipkim/Downloads/Py4E/import sys.pyp",
+		"/Users/phillipkim/Library/Application Support/Sublime Text/Packages/User/python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
