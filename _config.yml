@@ -214,6 +214,8 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - 404.html
+  - feed.xml
 
 jekyll-archives:
   enabled:
