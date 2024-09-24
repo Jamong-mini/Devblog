@@ -222,5 +222,5 @@ jekyll-archives:
     category: category
   permalinks:
     category: /categories/:name/
-  
+
 
